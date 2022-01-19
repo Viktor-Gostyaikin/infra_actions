@@ -46,4 +46,4 @@ jobs:
           uses: docker/build-push-action@v2 
           with:
             push: true
-            tags: Paradox29/infra_actions:latest
+            tags: gostyaikin/infra_actions:latest
